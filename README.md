@@ -25,7 +25,7 @@ Este proyecto es una aplicación web que muestra la cotización del dólar y per
 4.Haz clic en "Convertir" para ver el resultado de la conversión.
 
 
-##Capturas de pantalla
+## Capturas de pantalla
 <p align="center">
   <img src="https://github.com/21Enzo17/dolar-hoy/assets/129308114/a26755c9-074b-4900-8cc2-e129ed4dc7c1">
   <img src="https://github.com/21Enzo17/dolar-hoy/assets/129308114/692bc739-dc24-403e-9772-03048225974e">
